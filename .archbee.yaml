@@ -1,0 +1,3 @@
+docsPath: .
+shadowDocs:
+  - "main.py"
